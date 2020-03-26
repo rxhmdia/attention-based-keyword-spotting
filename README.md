@@ -1,6 +1,6 @@
 ## Attention based keyword spotting 
 
-A tensorflow implementation of the [Attention-based End-to-End Models for Small-Footprint Keyword Spotting] (https://arxiv.org/abs/1803.10916)
+A tensorflow implementation of the [ Attention-based End-to-End Models for Small-Footprint Keyword Spotting ] (https://arxiv.org/abs/1803.10916)
 
 ### requirements
 
